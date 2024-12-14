@@ -1,0 +1,1 @@
+This repository demonstrates a common error in PHP functions: the improper handling of null values.  The `foo` function attempts to add two variables, but it doesn't correctly manage scenarios where one or both variables are null.  This can lead to unexpected behavior or runtime errors. The solution demonstrates a more robust way to handle potential null values.
